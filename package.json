@@ -2,7 +2,7 @@
   "name": "plain-replace",
   "author": "carl@bynordenfelt.se",
   "description": "A simple command line tool for replacing strings in files without using regex",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "license": "MIT",
   "preferGlobal": true,
   "scripts": {
