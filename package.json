@@ -1,0 +1,25 @@
+{
+  "name": "plain-replace",
+  "author": "carl@bynordenfelt.se",
+  "description": "A simple command line tool for replacing strings in files without using regex",
+  "version": "0.0.4",
+  "license": "MIT",
+  "preferGlobal": true,
+  "scripts": {
+    "test": "make test"
+  },
+  "bin": {
+    "plain-replace": "src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carlnordenfelt/plain-replace"
+  },
+  "keywords": [
+    "Replace"
+  ],
+  "issues": {
+    "url": "https://github.com/carlnordenfelt/plain-replace/issues"
+  },
+  "homepage": "https://github.com/carlnordenfelt/plain-replace"
+}
